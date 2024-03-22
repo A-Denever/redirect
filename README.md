@@ -1,2 +1,2 @@
 # redirect
-This is a url redirection repository containing a url which contains "á" therefore without this redirect in url checks such url would trigger an invalid url instead of accepting it.
+This is a url redirection repository containing a url which contains "á".  Without this redirect in some url check forms this url would trigger an invalid url warning.
